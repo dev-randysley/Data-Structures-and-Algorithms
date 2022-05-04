@@ -1,0 +1,7 @@
+
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(‡ı©Ôùÿÿÿÿ
+c	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ó½°
+t
+java:S3012>"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(šùÅÿşÿÿÿÿ
+J
+java:S10663"/Merge this if statement with the enclosing one.(øÒØşÿÿÿÿ
